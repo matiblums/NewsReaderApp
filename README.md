@@ -109,10 +109,11 @@ The project follows the **MVVM (Model-View-ViewModel)** design pattern, which al
 ### Instructions:
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/matiblums/NewsReaderApp>
+   git clone <https://github.com/matiblums/NewsReaderApp.git>
    ```
 2. Open the `NewsReaderApp.xcodeproj` file in Xcode.
-3. Run the app on a simulator or physical device.
+3. The Google Maps API Key is restricted to use in iOS apps and specifically for the `com.conexa.NewsReaderApp` bundle identifier.
+4. Run the app on a simulator or physical device.
 
 ---
 
