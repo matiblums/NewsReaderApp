@@ -109,7 +109,7 @@ The project follows the **MVVM (Model-View-ViewModel)** design pattern, which al
 ### Instructions:
 1. Clone this repository:
    ```bash
-   git clone <https://bitbucket.org/matias_blum/newsreaderapp>
+   git clone <https://github.com/matiblums/NewsReaderApp>
    ```
 2. Open the `NewsReaderApp.xcodeproj` file in Xcode.
 3. In the `AppDelegate.swift` file, add your Google Maps API key:
