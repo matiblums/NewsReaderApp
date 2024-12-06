@@ -112,11 +112,7 @@ The project follows the **MVVM (Model-View-ViewModel)** design pattern, which al
    git clone <https://github.com/matiblums/NewsReaderApp>
    ```
 2. Open the `NewsReaderApp.xcodeproj` file in Xcode.
-3. In the `AppDelegate.swift` file, add your Google Maps API key:
-   ```swift
-   GMSServices.provideAPIKey("YOUR_API_KEY")
-   ```
-4. Run the app on a simulator or physical device.
+3. Run the app on a simulator or physical device.
 
 ---
 
