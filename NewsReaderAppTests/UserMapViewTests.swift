@@ -12,8 +12,6 @@ import GoogleMaps
 class UserMapViewTests: XCTestCase {
     
     func testUserMapViewInitialConfiguration() {
-        let mockGeo = Geo(lat: "37.7749", lng: "-122.4194")
-        let mockCompany = Company(name: "MockCorp", catchPhrase: "Mocking success", bs: "mocking")
         let mapView = GMSMapView()
         let camera = GMSCameraPosition.camera(withLatitude: 37.7749, longitude: -122.4194, zoom: 4)
         mapView.camera = camera
